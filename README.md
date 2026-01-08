@@ -30,7 +30,16 @@ This project aims to analyze and predict students' adaptability levels in online
   
 ---
 
+
 ### 🧰 Tools & Libraries
 - Python (Pandas, Sklearn, Matplotlib)
 - Jupyter Notebook
 - Kaggle dataset: [Students Adaptability Level in Online Education](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education)
+
+---
+
+### Done by: 
+Raghd Hassan
+nouf 
+Raghad 
+
